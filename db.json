@@ -1,0 +1,14 @@
+{
+    "users": [
+        { "id": 1, "user": "AlexVega21", "password": "Ale2021" },
+        { "id": 2, "user": "Ariel07"   , "password": "Ari2016" },
+        { "id": 3, "user": "Agente007" , "password": "Ag007ente" }
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "postId": 1 },
+        { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
