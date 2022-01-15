@@ -1,0 +1,22 @@
+  {
+    "id": 1,
+    "user": "AlexVega20",
+    "password": "123456",
+    "Option1": "Facebook",
+    "Option2": "Messenger"
+  },
+  {
+    "id": 2,
+    "user": "Admin",
+    "password": "Admin",
+    "Option1": "Hotmail",
+    "Option2": "Gmail"
+  },
+  {
+    "id": 3,
+    "user": "user",
+    "password": "user",
+    "Option1": "Spotify",
+    "Option2": "LinkedIn"
+  }
+]
