@@ -22,16 +22,24 @@
       "Option2": "LinkedIn"
     }
   ],
-  "comments": [
+  "files": [
     {
       "id": 1,
-      "body": "comment 1",
-      "postId": 1
+      "description": "Introducción a C#",
+      "Tamaño": "1,65 MB",
+      "url": "https://si.ua.es/es/documentacion/c-sharp/documentos/masterpages/modulo1.pdf"
     },
     {
       "id": 2,
-      "body": "comment 2",
-      "postId": 1
+      "description": "Manual JavaScript",
+      "Tamaño": "4,35 MB",
+      "url": "https://waltercarnero.com/cfp/tpprgweb/Libro2.pdf"
+    },
+    {
+      "id": 3,
+      "description": "Aprende a pensar como programador con Python",
+      "Tamaño": "1,65 MB",
+      "url": "https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf"
     }
   ],
   "profile": {
