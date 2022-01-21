@@ -58,6 +58,18 @@
       "description": "El Gran Libro de Angular",
       "Tamaño": "9,31 MB",
       "url": "https://lemus.webs.upv.es/wordpress/wp-content/uploads/2020/07/angular_compressed.pdf"
+    },
+    {
+      "id": 7,
+      "description": "Manual SQL Server",
+      "Tamaño": "3,37 MB",
+      "url": "http://www.utsc.edu.mx/vidaEstudiantil/pdf/pdf_pades/manual_sql_server_2019.pdf"
+    },
+    {
+      "id": 8,
+      "description": "Manual PostgreSQL",
+      "Tamaño": "1,03 MB",
+      "url": "https://www.visibilidadweb.unam.mx/capacitacion/perfilesTIC/responsableTIC/Manual-Curso-Basico-Postgres.pdf"
     }
   ],
   "profile": {
