@@ -25,9 +25,9 @@
   "files": [
     {
       "id": 1,
-      "description": "Introducción a C#",
-      "Tamaño": "1,65 MB",
-      "url": "https://si.ua.es/es/documentacion/c-sharp/documentos/masterpages/modulo1.pdf"
+      "description": "Introducción a C",
+      "Tamaño": "378 KB",
+      "url": "https://informatica.uv.es/estguia/ATD/apuntes/laboratorio/Lenguaje-C.pdf"
     },
     {
       "id": 2,
@@ -38,8 +38,26 @@
     {
       "id": 3,
       "description": "Aprende Python",
-      "Tamaño": "1,65 MB",
+      "Tamaño": "919 KB",
       "url": "https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf"
+    },
+    {
+      "id": 4,
+      "description": "Manual HTML",
+      "Tamaño": "825 KB",
+      "url": "http://profesores.fi-b.unam.mx/cintia/Manualhtml.pdf"
+    },
+    {
+      "id": 5,
+      "description": "CSS Avanzado",
+      "Tamaño": "1,75 MB",
+      "url": "http://www.uco.es/~lr1maalm/css_avanzado.pdf"
+    },
+    {
+      "id": 6,
+      "description": "El Gran Libro de Angular",
+      "Tamaño": "9,31 MB",
+      "url": "https://lemus.webs.upv.es/wordpress/wp-content/uploads/2020/07/angular_compressed.pdf"
     }
   ],
   "profile": {
