@@ -78,8 +78,8 @@
       "nomFacultad": "FACULTAD DE CIENCIAS DE LA INGENIERÍA",
       "nomDecano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
       "ubicacion": " Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
-      "latitud": "-1.0125879486933707",
-      "longitud": "-79.47036738940757",
+      "latitud": "-1.0127280095705806",
+      "longitud": "-79.47061043558233",
       "imgLogo": "https://www.uteq.edu.ec/images/about/logo_fci.jpg"
     },
     {
@@ -102,12 +102,39 @@
     },
     {
       "idFacultad": "FCE",
-      "nomFacultad": " FACULTAD DE CIENCIAS EMPRESARIALES",
+      "nomFacultad": "FACULTAD DE CIENCIAS EMPRESARIALES",
       "nomDecano": "Ing. Mariela Susana Andrade Arias, PhD.",
       "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
-      "latitud": "-1.012247823766085",
-      "longitud": "-79.47014523109289",
+      "latitud": "-1.012385479061969",
+      "longitud": "-79.47005276745422",
       "imgLogo": "https://www.uteq.edu.ec/images/about/logo_fce.jpg"
+    },
+    {
+      "idFacultad": "FCDE",
+      "nomFacultad": "FACULTAD DE CIENCIAS DE LA EDUCACIÓN",
+      "nomDecano": "Lcda. Badie Anneriz Cerezo Segovia, PhD.",
+      "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+      "latitud": "-1.012565898625717",
+      "longitud": "-79.46906149758946",
+      "imgLogo": ""
+    },
+    {
+      "idFacultad": "FCS",
+      "nomFacultad": "FACULTAD DE CIENCIAS DE LA SALUD",
+      "nomDecano": "Lcda. Inés de la Luz Bajaña Mendieta, M.Sc.",
+      "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+      "latitud": "-1.012870464914795",
+      "longitud": "-79.46949399256398",
+      "imgLogo": "https://www.uteq.edu.ec/images/about/logo_enf1.jpg"
+    },
+    {
+      "idFacultad": "FCSEF",
+      "nomFacultad": "FACULTAD DE CIENCIAS SOCIALES, ECONÓMICAS Y FINANCIERAS",
+      "nomDecano": "Econ. Nivaldo Apolonides Vera Valdiviezo, M.Sc.",
+      "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
+      "latitud": "-1.0121494326146072",
+      "longitud": "-79.47029282369702",
+      "imgLogo": ""
     }
   ]
 }
