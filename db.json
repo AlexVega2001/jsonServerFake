@@ -125,7 +125,7 @@
       "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "latitud": "-1.012332187729579",
       "longitud": "-79.46913790485421",
-      "imgLogo": "default.png"
+      "imgLogo": "https://d1bo3i1pvdbydg.cloudfront.net/assets/images/default-logo.png"
     },
     {
       "idFacultad": "FCSEF",
@@ -134,7 +134,7 @@
       "ubicacion": "Campus: Ingeniero Manuel Agustín Haz Álvarez, Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "latitud": "-1.0127442349523692",
       "longitud": "-79.47099310638991",
-      "imgLogo": "default.png"
+      "imgLogo": "https://d1bo3i1pvdbydg.cloudfront.net/assets/images/default-logo.png"
     }
   ]
 }
