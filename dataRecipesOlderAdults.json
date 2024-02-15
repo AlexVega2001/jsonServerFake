@@ -1,0 +1,524 @@
+{
+  "diabetes": [
+    {
+      "id": 1,
+      "nombre_receta": "Ensalada de espinacas y fresas",
+      "total_calorias": 150,
+      "ingredientes": [
+        { "cantidad": "2 tazas", "nombre": "espinacas frescas" },
+        { "cantidad": "1 taza", "nombre": "fresas frescas" },
+        { "cantidad": "1/4 taza", "nombre": "nueces" },
+        { "cantidad": "2 cucharadas", "nombre": "vinagre balsámico" }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre_receta": "Salmón al horno con espárragos",
+      "total_calorias": 250,
+      "ingredientes": [
+        { "cantidad": "6 oz", "nombre": "filete de salmón" },
+        { "cantidad": "1 taza", "nombre": "espárragos frescos" },
+        { "cantidad": "1/2", "nombre": "limón" },
+        { "cantidad": "1 cucharada", "nombre": "aceite de oliva" }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre_receta": "Chili de pavo y frijoles",
+      "total_calorias": 300,
+      "ingredientes": [
+        { "cantidad": "1 lb", "nombre": "pavo molido magro" },
+        { "cantidad": "2 tazas", "nombre": "frijoles negros cocidos" },
+        { "cantidad": "2", "nombre": "tomates picados" },
+        { "cantidad": "1", "nombre": "cebolla picada" },
+        { "cantidad": "2 cucharadas", "nombre": "chile en polvo" }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre_receta": "Tortilla de claras de huevo con vegetales",
+      "total_calorias": 200,
+      "ingredientes": [
+        { "cantidad": "4", "nombre": "claras de huevo" },
+        { "cantidad": "1 taza", "nombre": "espinacas frescas" },
+        { "cantidad": "1/2 taza", "nombre": "champiñones rebanados" },
+        { "cantidad": "1/2", "nombre": "tomate picado" },
+        { "cantidad": "1/4", "nombre": "pimiento picado" }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre_receta": "Ensalada de quinua y aguacate",
+      "total_calorias": 280,
+      "ingredientes": [
+        { "cantidad": "1/2 taza", "nombre": "quinua cocida" },
+        { "cantidad": "1/2", "nombre": "aguacate cortado en cubitos" },
+        {
+          "cantidad": "1/2 taza",
+          "nombre": "tomate cherry cortado por la mitad"
+        },
+        { "cantidad": "1/4 taza", "nombre": "pepino picado" },
+        { "cantidad": "2 cucharadas", "nombre": "cilantro fresco picado" },
+        { "cantidad": "1", "nombre": "limón exprimido" }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre_receta": "Pollo al limón con brócoli al vapor",
+      "total_calorias": 220,
+      "ingredientes": [
+        { "cantidad": "6 oz", "nombre": "pechuga de pollo sin piel" },
+        { "cantidad": "1", "nombre": "limón" },
+        { "cantidad": "2 dientes", "nombre": "ajo picado" },
+        { "cantidad": "2 tazas", "nombre": "brócoli fresco" }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre_receta": "Sopa de lentejas y vegetales",
+      "total_calorias": 180,
+      "ingredientes": [
+        { "cantidad": "1 taza", "nombre": "lentejas secas" },
+        { "cantidad": "1", "nombre": "zanahoria picada" },
+        { "cantidad": "1", "nombre": "rama de apio picada" },
+        { "cantidad": "1/2", "nombre": "cebolla picada" },
+        { "cantidad": "4 tazas", "nombre": "caldo de verduras bajo en sodio" }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre_receta": "Pescado al horno con coles de bruselas",
+      "total_calorias": 230,
+      "ingredientes": [
+        { "cantidad": "6 oz", "nombre": "filete de pescado blanco" },
+        { "cantidad": "1 taza", "nombre": "coles de Bruselas" },
+        { "cantidad": "1 cucharada", "nombre": "aceite de oliva" },
+        { "cantidad": "2 dientes", "nombre": "ajo picado" }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre_receta": "Ensalada de garbanzos y pepino",
+      "total_calorias": 200,
+      "ingredientes": [
+        {
+          "cantidad": "1 lata",
+          "nombre": "garbanzos cocidos, escurridos y enjuagados"
+        },
+        { "cantidad": "1", "nombre": "pepino cortado en cubitos" },
+        { "cantidad": "1/2 taza", "nombre": "tomate picado" },
+        { "cantidad": "1/4 taza", "nombre": "cebolla roja picada" },
+        { "cantidad": "2 cucharadas", "nombre": "vinagre de vino tinto" }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre_receta": "Tacos de pavo con guacamole",
+      "total_calorias": 250,
+      "ingredientes": [
+        { "cantidad": "4", "nombre": "tortillas integrales" },
+        { "cantidad": "1/2 lb", "nombre": "pavo molido magro" },
+        { "cantidad": "1/2", "nombre": "aguacate" },
+        { "cantidad": "1/2", "nombre": "tomate picado" },
+        { "cantidad": "2 cucharadas", "nombre": "cilantro fresco picado" }
+      ]
+    }
+  ],
+  "hipertension": [
+    {
+      "id": 1,
+      "nombre_receta": "Sopa de verduras con pollo",
+      "total_calorias": 250,
+      "ingredientes": [
+        {"cantidad": "1/2 unidad", "nombre": "cebolla"},
+        {"cantidad": "1 diente", "nombre": "ajo"},
+        {"cantidad": "1 unidad", "nombre": "zanahoria"},
+        {"cantidad": "1 tallo", "nombre": "apio"},
+        {"cantidad": "1 unidad", "nombre": "tomate"},
+        {"cantidad": "1 litro", "nombre": "caldo de verduras"},
+        {"cantidad": "100 gr", "nombre": "pechuga de pollo"},
+        {"cantidad": "1/2 taza", "nombre": "fideos integrales"}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre_receta": "Pavo al horno con espárragos",
+      "total_calorias": 180,
+      "ingredientes": [
+        {"cantidad": "1", "nombre": "pechuga de pavo"},
+        {"cantidad": "1 manojo", "nombre": "espárragos"},
+        {"cantidad": "2 dientes", "nombre": "ajo"},
+        {"cantidad": "1", "nombre": "cebolla picada"},
+        {"cantidad": "1/2 taza", "nombre": "vino blanco"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"},
+        {"cantidad": "1 cucharadita", "nombre": "tomillo fresco"},
+        {"cantidad": "1/2 cucharadita", "nombre": "sal"},
+        {"cantidad": "1/4 cucharadita", "nombre": "pimienta"}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre_receta": "Pescado al horno con patatas",
+      "total_calorias": 300,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "filete de pescado blanco"},
+        {"cantidad": "2 unidades", "nombre": "patatas"},
+        {"cantidad": "1/2 unidad", "nombre": "cebolla"},
+        {"cantidad": "1/2 unidad", "nombre": "pimiento verde"},
+        {"cantidad": "2 cucharadas", "nombre": "aceite de oliva"},
+        {"cantidad": "al gusto", "nombre": "sal"},
+        {"cantidad": "al gusto", "nombre": "pimienta"},
+        {"cantidad": "1 cucharadita", "nombre": "orégano"}
+      ]
+    },
+    {
+      "id": 4,
+      "nombre_receta": "Arroz integral con verduras",
+      "total_calorias": 350,
+      "ingredientes": [
+        {"cantidad": "1 taza", "nombre": "arroz integral"},
+        {"cantidad": "1/2 unidad", "nombre": "cebolla"},
+        {"cantidad": "1/2 unidad", "nombre": "pimiento verde"},
+        {"cantidad": "1/2 taza", "nombre": "guisantes"},
+        {"cantidad": "1/2 unidad", "nombre": "calabacín"}
+      ]
+    },
+    {
+      "id": 5,
+      "nombre_receta": "Pasta integral con salsa de tomate y espinacas",
+      "total_calorias": 250,
+      "ingredientes": [
+        {"cantidad": "2 tazas", "nombre": "pasta integral"},
+        {"cantidad": "1 taza", "nombre": "espinacas"},
+        {"cantidad": "1 taza", "nombre": "tomates cherry"},
+        {"cantidad": "2 dientes", "nombre": "ajo"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 6,
+      "nombre_receta": "Sándwich de pavo y aguacate en pan integral",
+      "total_calorias": 280,
+      "ingredientes": [
+        {"cantidad": "2 rebanadas", "nombre": "pan integral"},
+        {"cantidad": "2 oz", "nombre": "pechuga de pavo"},
+        {"cantidad": "1/4", "nombre": "aguacate en rodajas"},
+        {"cantidad": "1/4", "nombre": "espinacas"},
+        {"cantidad": "al gusto", "nombre": "Mostaza"}
+      ]
+    },
+    {
+      "id": 7,
+      "nombre_receta": "Estofado de pollo con verduras",
+      "total_calorias": 270,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "pechuga de pollo"},
+        {"cantidad": "1", "nombre": "zanahoria cortada en rodajas"},
+        {"cantidad": "1", "nombre": "papa cortada en cubitos"},
+        {"cantidad": "1/2", "nombre": "cebolla picada"}
+      ]
+    },
+    {
+      "id": 8,
+      "nombre_receta": "Tortilla de claras de huevo con vegetales",
+      "total_calorias": 200,
+      "ingredientes": [
+        {"cantidad": "4", "nombre": "claras de huevo"},
+        {"cantidad": "1 taza", "nombre": "espinacas frescas"},
+        {"cantidad": "1/2 taza", "nombre": "champiñones rebanados"},
+        {"cantidad": "1/2", "nombre": "tomate picado"},
+        {"cantidad": "1/4", "nombre": "pimiento picado"}
+      ]
+    },
+    {
+      "id": 9,
+      "nombre_receta": "Salmón al horno con espárragos",
+      "total_calorias": 250,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "filete de salmón"},
+        {"cantidad": "1 taza", "nombre": "espárragos frescos"},
+        {"cantidad": "1/2", "nombre": "limón"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 10,
+      "nombre_receta": "Ensalada de frutas con ricotta",
+      "total_calorias": 200,
+      "ingredientes": [
+        {"cantidad": "1 taza", "nombre": "fresas"},
+        {"cantidad": "1/2 taza", "nombre": "arándanos"},
+        {"cantidad": "1 unidad", "nombre": "kiwi"},
+        {"cantidad": "1/4 taza", "nombre": "ricotta"},
+        {"cantidad": "1 cucharadita", "nombre": "miel"}
+      ]
+    }
+  ],
+  "obesidad": [
+    {
+      "id": 1,
+      "nombre_receta": "Ensalada de quinoa y vegetales asados",
+      "total_calorias": 250,
+      "ingredientes": [
+        {"cantidad": "1/2 taza", "nombre": "quinoa cocida"},
+        {"cantidad": "1 taza", "nombre": "calabaza cortada en cubos"},
+        {"cantidad": "1 taza", "nombre": "brócoli"},
+        {"cantidad": "1 taza", "nombre": "zanahorias en rodajas"},
+        {"cantidad": "2 cucharadas", "nombre": "aceite de oliva"},
+        {"cantidad": "1 cucharadita", "nombre": "pimentón"},
+        {"cantidad": "1/2 cucharadita", "nombre": "comino en polvo"}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre_receta": "Salmón a la parrilla con ensalada de aguacate",
+      "total_calorias": 300,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "filete de salmón"},
+        {"cantidad": "1", "nombre": "aguacate cortado en cubos"},
+        {"cantidad": "1/2 taza", "nombre": "tomates cherry"},
+        {"cantidad": "1/4 taza", "nombre": "cebolla roja picada"},
+        {"cantidad": "2 cucharadas", "nombre": "cilantro fresco picado"},
+        {"cantidad": "1 cucharada", "nombre": "jugo de limón"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre_receta": "Hamburguesas de pavo con ensalada de col",
+      "total_calorias": 280,
+      "ingredientes": [
+        {"cantidad": "1 lb", "nombre": "carne molida de pavo"},
+        {"cantidad": "1/4 taza", "nombre": "cebolla picada"},
+        {"cantidad": "1/4 taza", "nombre": "pimiento rojo picado"},
+        {"cantidad": "1/4 taza", "nombre": "pimiento verde picado"},
+        {"cantidad": "1 cucharadita", "nombre": "ajo en polvo"},
+        {"cantidad": "1/2 cucharadita", "nombre": "pimienta negra molida"},
+        {"cantidad": "4 hojas", "nombre": "hojas de lechuga para envolver"},
+        {"cantidad": "1 taza", "nombre": "repollo rallado"},
+        {"cantidad": "2 cucharadas", "nombre": "vinagre de sidra de manzana"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 4,
+      "nombre_receta": "Ensalada griega de pollo",
+      "total_calorias": 290,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "pechuga de pollo cocida y desmenuzada"},
+        {"cantidad": "1 taza", "nombre": "pepinos en rodajas"},
+        {"cantidad": "1 taza", "nombre": "tomates cherry"},
+        {"cantidad": "1/2 taza", "nombre": "aceitunas kalamata"},
+        {"cantidad": "1/4 taza", "nombre": "cebolla roja en rodajas"},
+        {"cantidad": "1/4 taza", "nombre": "queso feta desmenuzado"},
+        {"cantidad": "2 cucharadas", "nombre": "aceite de oliva"},
+        {"cantidad": "1 cucharada", "nombre": "jugo de limón"},
+        {"cantidad": "1 cucharadita", "nombre": "orégano seco"},
+        {"cantidad": "1/2 cucharadita", "nombre": "ajo en polvo"}
+      ]
+    },
+    {
+      "id": 5,
+      "nombre_receta": "Sopa de calabaza y jengibre",
+      "total_calorias": 200,
+      "ingredientes": [
+        {"cantidad": "2 tazas", "nombre": "calabaza en cubos"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"},
+        {"cantidad": "1/2 taza", "nombre": "cebolla picada"},
+        {"cantidad": "2 dientes", "nombre": "ajo picado"},
+        {"cantidad": "1 cucharadita", "nombre": "jengibre fresco rallado"},
+        {"cantidad": "4 tazas", "nombre": "caldo de vegetales bajo en sodio"},
+        {"cantidad": "1/2 taza", "nombre": "leche de coco light"},
+        {"cantidad": "1/4 cucharadita", "nombre": "pimienta roja triturada"}
+      ]
+    },
+    {
+      "id": 6,
+      "nombre_receta": "Pechuga de pollo a la plancha con vegetales al vapor",
+      "total_calorias": 270,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "pechuga de pollo sin piel"},
+        {"cantidad": "1", "nombre": "limón"},
+        {"cantidad": "2 dientes", "nombre": "ajo picado"},
+        {"cantidad": "1 taza", "nombre": "brócoli fresco"},
+        {"cantidad": "1 taza", "nombre": "zanahorias en rodajas"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 7,
+      "nombre_receta": "Tacos de pavo con guacamole",
+      "total_calorias": 250,
+      "ingredientes": [
+        {"cantidad": "4", "nombre": "tortillas integrales"},
+        {"cantidad": "1/2 lb", "nombre": "pavo molido magro"},
+        {"cantidad": "1/2", "nombre": "aguacate"},
+        {"cantidad": "1/2", "nombre": "tomate picado"},
+        {"cantidad": "2 cucharadas", "nombre": "cilantro fresco picado"}
+      ]
+    },
+    {
+      "id": 8,
+      "nombre_receta": "Tortitas de avena y plátano",
+      "total_calorias": 220,
+      "ingredientes": [
+        {"cantidad": "1", "nombre": "plátano maduro"},
+        {"cantidad": "1/2 taza", "nombre": "avena"},
+        {"cantidad": "1/4 taza", "nombre": "leche de almendras sin azúcar"},
+        {"cantidad": "1/4 cucharadita", "nombre": "canela en polvo"},
+        {"cantidad": "1/4 cucharadita", "nombre": "extracto de vainilla"}
+      ]
+    },
+    {
+      "id": 9,
+      "nombre_receta": "Ensalada de garbanzos y aguacate",
+      "total_calorias": 240,
+      "ingredientes": [
+        {"cantidad": "1 lata", "nombre": "garbanzos cocidos, escurridos y enjuagados"},
+        {"cantidad": "1/2", "nombre": "aguacate"},
+        {"cantidad": "1/4 taza", "nombre": "cebolla roja picada"},
+        {"cantidad": "1/4 taza", "nombre": "pimiento rojo picado"},
+        {"cantidad": "2 cucharadas", "nombre": "cilantro fresco picado"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 10,
+      "nombre_receta": "Batido de frutas y espinacas",
+      "total_calorias": 180,
+      "ingredientes": [
+        {"cantidad": "1 taza", "nombre": "espinacas frescas"},
+        {"cantidad": "1/2 taza", "nombre": "fresas frescas"},
+        {"cantidad": "1/2", "nombre": "plátano"},
+        {"cantidad": "1/2 taza", "nombre": "yogur griego bajo en grasa"},
+        {"cantidad": "1/4 taza", "nombre": "leche de almendras sin azúcar"},
+        {"cantidad": "1 cucharadita", "nombre": "miel o edulcorante natural al gusto"}
+      ]
+    }
+  ],
+  "enfermedad_cardiaca": [
+    {
+      "id": 1,
+      "nombre_receta": "Salmón al horno con espárragos",
+      "total_calorias": 250,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "filete de salmón"},
+        {"cantidad": "1 taza", "nombre": "espárragos frescos"},
+        {"cantidad": "1/2", "nombre": "limón"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 2,
+      "nombre_receta": "Ensalada de aguacate y camarones",
+      "total_calorias": 200,
+      "ingredientes": [
+        {"cantidad": "1", "nombre": "aguacate"},
+        {"cantidad": "1 taza", "nombre": "camarones cocidos y pelados"},
+        {"cantidad": "1/2 taza", "nombre": "tomate cherry"},
+        {"cantidad": "1/4 taza", "nombre": "cebolla roja picada"},
+        {"cantidad": "2 cucharadas", "nombre": "cilantro fresco picado"},
+        {"cantidad": "1 cucharada", "nombre": "jugo de limón"}
+      ]
+    },
+    {
+      "id": 3,
+      "nombre_receta": "Pechuga de pollo a la parrilla con brócoli al vapor",
+      "total_calorias": 220,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "pechuga de pollo sin piel"},
+        {"cantidad": "1 taza", "nombre": "brócoli fresco"},
+        {"cantidad": "1/2", "nombre": "limón"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de oliva"}
+      ]
+    },
+    {
+      "id": 4,
+      "nombre_receta": "Ensalada de espinacas y fresas",
+      "total_calorias": 180,
+      "ingredientes": [
+        {"cantidad": "2 tazas", "nombre": "espinacas frescas"},
+        {"cantidad": "1 taza", "nombre": "fresas frescas"},
+        {"cantidad": "1/4 taza", "nombre": "nueces"},
+        {"cantidad": "2 cucharadas", "nombre": "vinagre balsámico"}
+      ]
+    },
+    {
+      "id": 5,
+      "nombre_receta": "Pollo al curry con verduras",
+      "total_calorias": 280,
+      "ingredientes": [
+        {"cantidad": "6 oz", "nombre": "pechuga de pollo sin piel"},
+        {"cantidad": "1 taza", "nombre": "calabacín en rodajas"},
+        {"cantidad": "1 taza", "nombre": "zanahorias en rodajas"},
+        {"cantidad": "1/2 taza", "nombre": "pimiento rojo en rodajas"},
+        {"cantidad": "1/2 taza", "nombre": "cebolla picada"},
+        {"cantidad": "1 cucharada", "nombre": "aceite de coco"},
+        {"cantidad": "2 cucharadas", "nombre": "pasta de curry"}
+      ]
+    },
+    {
+      "id": 6,
+      "nombre_receta": "Sopa de lentejas con vegetales",
+      "total_calorias": 220,
+      "ingredientes": [
+        {"cantidad": "1 taza", "nombre": "lentejas secas"},
+        {"cantidad": "1/2 taza", "nombre": "zanahorias picadas"},
+        {"cantidad": "1/2 taza", "nombre": "apio picado"},
+        {"cantidad": "1/2 taza", "nombre": "cebolla picada"},
+        {"cantidad": "2 dientes", "nombre": "ajo picado"},
+        {"cantidad": "4 tazas", "nombre": "caldo de vegetales bajo en sodio"}
+      ]
+    },
+    {
+      "id": 7,
+      "nombre_receta": "Ensalada de quinoa y aguacate",
+      "total_calorias": 240,
+      "ingredientes": [
+        {"cantidad": "1/2 taza", "nombre": "quinoa cocida"},
+        {"cantidad": "1", "nombre": "aguacate"},
+        {"cantidad": "1/2 taza", "nombre": "pepino en cubos"},
+        {"cantidad": "1/4 taza", "nombre": "cebolla roja picada"},
+        {"cantidad": "2 cucharadas", "nombre": "cilantro fresco picado"},
+        {"cantidad": "1 cucharada", "nombre": "jugo de limón"}
+      ]
+    },
+    {
+      "id": 8,
+      "nombre_receta": "Tacos de pavo con guacamole",
+      "total_calorias": 260,
+      "ingredientes": [
+        {"cantidad": "4", "nombre": "tortillas integrales"},
+        {"cantidad": "1/2 lb", "nombre": "pavo molido magro"},
+        {"cantidad": "1/2", "nombre": "aguacate"},
+        {"cantidad": "1/2", "nombre": "tomate picado"},
+        {"cantidad": "2 cucharadas", "nombre": "cilantro fresco picado"}
+      ]
+    },
+    {
+      "id": 9,
+      "nombre_receta": "Batido de frutas y espinacas",
+      "total_calorias": 200,
+      "ingredientes": [
+        {"cantidad": "1 taza", "nombre": "espinacas frescas"},
+        {"cantidad": "1/2 taza", "nombre": "fresas frescas"},
+        {"cantidad": "1/2", "nombre": "plátano"},
+        {"cantidad": "1/2 taza", "nombre": "yogur griego bajo en grasa"},
+        {"cantidad": "1/4 taza", "nombre": "leche de almendras sin azúcar"},
+        {"cantidad": "1 cucharadita", "nombre": "miel o edulcorante natural al gusto"}
+      ]
+    },
+    {
+      "id": 10,
+      "nombre_receta": "Tortitas de avena y plátano",
+      "total_calorias": 230,
+      "ingredientes": [
+        {"cantidad": "1", "nombre": "plátano maduro"},
+        {"cantidad": "1/2 taza", "nombre": "avena"},
+        {"cantidad": "1/4 taza", "nombre": "leche de almendras sin azúcar"},
+        {"cantidad": "1/4 cucharadita", "nombre": "canela en polvo"},
+        {"cantidad": "1/4 cucharadita", "nombre": "extracto de vainilla"}
+      ]
+    }
+  ]
+}
